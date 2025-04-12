@@ -1,0 +1,22 @@
+{
+  "name": "menu-web-scraper",
+  "version": "1.0.0",
+  "description": "Web scaper to get the menu of Texas Roadhouse: ENTREE, APPETIZER, SIDE, DRINK, DESSERT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claire-Vu/menu-web-scraper.git"
+  },
+  "keywords": [
+    "web-scaper"
+  ],
+  "author": "Claire Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claire-Vu/menu-web-scraper/issues"
+  },
+  "homepage": "https://github.com/Claire-Vu/menu-web-scraper#readme"
+}
